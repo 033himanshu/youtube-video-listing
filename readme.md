@@ -26,6 +26,9 @@ This web application provides a seamless experience for browsing and discovering
 
   ![Responsive Design](demo/responsive.PNG)
 
+- **Infinite Scrolling**
+    - User can scroll infinitly until we get out of new videos
+
 ## Live Demo
 [Visit the Web App](https://youtube-video-listing-gold.vercel.app/)
 
